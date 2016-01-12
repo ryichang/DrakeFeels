@@ -1,0 +1,8 @@
+{
+  "name": "DrakeFeels",
+  "description": "Drake has feelings",
+  "version": "1.0.0",
+  "engines": {
+    "node": "4.2.1"
+  }
+}
