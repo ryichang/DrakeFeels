@@ -5,8 +5,8 @@ body {
 }
 
 @font-face {
-    font-family:'AkzidenzGroteskStd'; a name to be used later
-    src: url('./fonts/AkzidenzGroteskStd-Md.otf'); /*URL to font*/
+    /*font-family:'AkzidenzGroteskStd'; a name to be used later
+    src: url('./fonts/AkzidenzGroteskStd-Md.otf'); /*URL to font*/*/
 }
 
 #container {
